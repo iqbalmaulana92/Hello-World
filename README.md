@@ -1,2 +1,2 @@
 # Hello-World
-Istilah paling populer saat pertama belajar programming
+Istilah paling populer bagi saya saat pertama belajar programming
